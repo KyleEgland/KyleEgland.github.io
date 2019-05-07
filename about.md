@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+### Top 5 Strengths ([Gallop](https://www.gallupstrengthscenter.com/))
 Competition, Relator, Learner, Futuristic, Intellection
 
 ### More Information
@@ -15,4 +16,4 @@ Competition, Relator, Learner, Futuristic, Intellection
 
 ### Contact me
 
-[kyle.egland@outlook.com.com](mailto:kyle.egland@outlook.com)
+[kyle.egland@outlook.com](mailto:kyle.egland@outlook.com)
