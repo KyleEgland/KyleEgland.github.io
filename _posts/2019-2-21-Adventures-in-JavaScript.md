@@ -1,3 +1,8 @@
+---
+layout: post
+title: Adventures in JavaScript
+---
+
 # The Journey's Beginning
 ...or...My foray into **web application** development
 
