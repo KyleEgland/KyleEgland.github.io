@@ -1,12 +1,11 @@
 # Kyle Egland Developer Landing Page
-This page was made by forking this [repository](https://github.com/barryclark/jekyll-now).  Please see the credits section of this readme for further attribution
+This page was made by forking [this](https://github.com/barryclark/jekyll-now) repository.  Please see the credits section of this file for further attribution - takes a village to raise a child and a community to create a developer.
 
 ## Synopsis
-
-Every developer should have a site for themselves in which to talk a bit about themselves and display some of their work - this is mine.
+Every developer should have a site for themselves in which to talk a bit about themselves and display some of their work - this is mine.  This project utilizes [Jekyll](https://github.com/jekyll/jekyll)
 
 ## Credits
-
+(These are the original credits from the forked repo - I also wish to thank them :)
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
 - [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
