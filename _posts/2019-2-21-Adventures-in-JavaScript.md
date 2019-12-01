@@ -3,8 +3,7 @@ layout: post
 title: Adventures in JavaScript
 ---
 
-# The Journey's Beginning
-...or...My foray into **web application** development
+The Journey's Beginning...or...My foray into web application development.
 
 ### Ulterior Motives
 Part of my day job is data analysis, for which I'd like to institute the use of some Python programming to make things easier (not a fan of Excel, like, at all...). I love programming in Python (just check out my [repos](https://github.com/KyleEgland?tab=repositories)). It occurred to me, however, that no one is going to install Python, then my program, then learn how to run it and whatever else it may entail. People are resistant to changes that are minor let alone learning something that resembles code (I.e. running something from the command line). The safety and comfort of a GUI would be what they'll always prefer. So, I started writing that and packaging it as an exe. That too comes with some draw backs - how do we do updates and maintain security and...that was scrapped quickly.

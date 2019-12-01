@@ -3,6 +3,8 @@ layout: post
 title: Back to Frameworks
 ---
 
+...and how I learned to love the ~~bomb~~ box
+
 # Web App Development (Learning) Status
 
 I've been working on web app development in my free-time (ref previous posts) and found that doing things "from scratch" is just too much "re-inventing the wheel".  Therefore, I've turned on my heals and walked back into frameworks.  I've been working with Flask for quite some time now and have rather enjoyed it.  The modular nature of it and breadth of available ad-ons is quite profound.  Additionally, since I've also been working with APIs lately, I've found it necessary to create some test rigging - the subject of this post.

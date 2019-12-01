@@ -3,7 +3,7 @@ layout: post
 title: Time Flies
 ---
 
-# Moonlighting
+Moonlighting - my way of life
 
 Nothing specific to talk to in-depth; really just wanted to put another post in the world.  I don't expect that someone is dying for the next page turner in this chronicle so much I want to dedicate myself to something to prove something to myself.  So, for the sake of writing something, here's a post.
 

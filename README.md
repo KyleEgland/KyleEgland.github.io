@@ -2,10 +2,22 @@
 This page was made by forking [this](https://github.com/barryclark/jekyll-now) repository.  Please see the credits section of this file for further attribution - takes a village to raise a child and a community to create a developer.
 
 ## Synopsis
-Every developer should have a site for themselves in which to talk a bit about themselves and display some of their work - this is mine.  This project utilizes [Jekyll](https://github.com/jekyll/jekyll)
+Every developer should have a site for themselves in which to display some of their work - this is mine.  This project utilizes [Jekyll](https://github.com/jekyll/jekyll) and [GitHub Pages](https://pages.github.com/) to serve the site.
+
+## Local Development
+Serving the site locally requires a Ruby environment and the Jekyll package.  See the credits below for links to installation resources.
+
+Serve the blog locally:
+
+`$ exec jekyll serve`
+
+### Style changes
+Modify the file `style.scss` in the root.
 
 ## Credits
-(These are the original credits from the forked repo - I also wish to thank them :)
+- [Ruby Installation Guides](https://jekyllrb.com/docs/installation/)
+- [Jekyll QuickStart](https://jekyllrb.com/docs/)
+These are the original credits from the forked repo - I also wish to thank them :)
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
 - [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
