@@ -5,13 +5,15 @@ permalink: /projects/
 ---
 
 # Kyle's Github Projects
-These are just a few of the projects that I care to share.
 
-## Python
+History, should be studied so we may learn from it. All of my publicly viewable projects are availbable on my [Github](https://github.com/KyleEgland). I have made attempt to "clean-up" my account (removing derelict projects, etc.) and have since resolved that it would be better to appropriately update the projects instead. The below projects are ones that may be of some interest for either learning purposes or examples of the code that I have created.
 
-* [Project Name]("github/link")
+[tkinterguiexample](https://github.com/KyleEgland/tkinterguiexample)
+- A simple GUI using tkinter and Python
 
-### Flask
+[py_pdf_splitter](https://github.com/KyleEgland/py_pdf_splitter)
+- A GUI application that splits PDF files written with Python
 
-* [Submit Multiple Forms]("https://github.com/KyleEgland/flask_multi-form_submit")
-    * Submitting multiple forms
+[Submit Multiple Forms]("https://github.com/KyleEgland/flask_multi-form_submit")
+- Flask (Python) web app project
+- Submitting multiple forms

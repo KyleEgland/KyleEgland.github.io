@@ -1,0 +1,26 @@
+---
+layout: default
+title: Blog
+---
+<div>
+  <h1>My Blog</h1>
+  <h3>Notes on the blog...</h3>
+  <p>
+    This section was originally intended to be the "main" feature of this site, however, work and life happened and I was unable to create something that I felt "worth while". That being said, I do intend to continue to write here - just know that it may not necessarily all be technical documentation, this is just a blog after all.
+  </p>
+</div>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
