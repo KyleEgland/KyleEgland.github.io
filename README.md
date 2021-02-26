@@ -15,6 +15,7 @@ This page was made by forking [this](https://github.com/barryclark/jekyll-now) r
 - [Jekyll QuickStart](https://jekyllrb.com/docs/)
 - [rbenv](https://github.com/rbenv/rbenv) - highly recommended if you are able to use it
 - [Ruby Installation Guides](https://jekyllrb.com/docs/installation/)
+- [Github Pages](https://pages.github.com/)
 
 _These are the original credits from the forked repo - I also wish to thank them_ :)
 
