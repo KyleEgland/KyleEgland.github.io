@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Adventures in JavaScript
+categories: [blog, web]
+tags: [learning, webapp, noframework]
 ---
 
 The Journey's Beginning...or...My foray into web application development.

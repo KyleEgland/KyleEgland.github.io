@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Back to Frameworks
+categories: [blog]
+tags: [learning, webframeworks, python, flask]
 ---
 
 ...and how I learned to love the ~~bomb~~ box

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Android Weekend Feature
+categories: [blog, purpleteam]
+tags: [android, nethunter]
 ---
 
 Having fun with an unsupported device in hopes of extending its life just a little bit more.

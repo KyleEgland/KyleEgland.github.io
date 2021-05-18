@@ -27,7 +27,7 @@ Modify the file `style.scss` in the root.
 
 ## Ruby Quick Start
 
-After beginning this blog initially I've found the project [rbenv](https://github.com/rbenv/rbenv) - which is the basis for one of my _favorite_ projects [pyenv](https://github.com/pyenv/pyenv) - and have been using it instead of a system wide installation.  This allows for the replication of the environment on any of my Linux machines.  Below are the basic steps to get `rbenv` up-and-running on a Debian based machine:
+After beginning this blog I found the project [rbenv](https://github.com/rbenv/rbenv) - which influenced one of my _favorite_ projects [pyenv](https://github.com/pyenv/pyenv) - and have been using it instead of a system wide installation.  This allows for the replication of the environment on any of my Linux machines.  Below are the basic steps to get `rbenv` up-and-running on a Debian based machine:
 
 1. Run the installer
 

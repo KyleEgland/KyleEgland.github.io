@@ -11,4 +11,6 @@ Been away for a bit and I need to contribute once again to my own education (of 
 
 I've let too many side-projects into my life, went a bit mad with the stress of that, and have found myself shirking a lot of duties in my life.  Recently had a moment of clarity and have re-aligned on priorities in my life.  I think I'm ready to begin here again...time will tell.
 
-Things rarely go to plan and I, for one, have been terrible at execution.  
+Things rarely go to plan and I, for one, have been terrible at execution.
+
+(Fourth-wall breaking note-to-myself; obviously, was never posted but I'm leaving it here for posterity's sake)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Continued Itterations
+categories: [blog, life]
+tags: [life]
 ---
 
 Now with 100% more posting per year!

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Time Flies
+categories: [blog, life]
+tags: [life]
 ---
 
 Moonlighting - my way of life
